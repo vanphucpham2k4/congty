@@ -1,0 +1,1 @@
+print("tính tổng 2 chữ số")
